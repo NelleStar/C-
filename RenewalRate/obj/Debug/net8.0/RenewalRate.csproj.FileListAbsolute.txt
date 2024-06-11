@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\bin\Debug\net8.0\RenewalRate.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\bin\Debug\net8.0\RenewalRate.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\bin\Debug\net8.0\RenewalRate.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\bin\Debug\net8.0\RenewalRate.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\bin\Debug\net8.0\RenewalRate.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\refint\RenewalRate.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\RenewalRate.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RenewalRate\obj\Debug\net8.0\ref\RenewalRate.dll

@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\bin\Debug\net8.0\RandomDice.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\bin\Debug\net8.0\RandomDice.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\bin\Debug\net8.0\RandomDice.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\bin\Debug\net8.0\RandomDice.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\bin\Debug\net8.0\RandomDice.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\refint\RandomDice.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\RandomDice.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\RandomDice\obj\Debug\net8.0\ref\RandomDice.dll
