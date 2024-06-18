@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\bin\Debug\net8.0\arraysIterationSelection.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\bin\Debug\net8.0\arraysIterationSelection.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\bin\Debug\net8.0\arraysIterationSelection.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\bin\Debug\net8.0\arraysIterationSelection.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\bin\Debug\net8.0\arraysIterationSelection.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\refint\arraysIterationSelection.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\arraysIterationSelection.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\arraysIterationSelection\obj\Debug\net8.0\ref\arraysIterationSelection.dll
