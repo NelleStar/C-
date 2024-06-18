@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\bin\Debug\net8.0\WhiteSpace.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\bin\Debug\net8.0\WhiteSpace.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\bin\Debug\net8.0\WhiteSpace.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\bin\Debug\net8.0\WhiteSpace.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\bin\Debug\net8.0\WhiteSpace.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\refint\WhiteSpace.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\WhiteSpace.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\WhiteSpace\obj\Debug\net8.0\ref\WhiteSpace.dll
