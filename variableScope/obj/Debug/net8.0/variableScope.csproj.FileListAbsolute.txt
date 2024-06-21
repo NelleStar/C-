@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\bin\Debug\net8.0\variableScope.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\bin\Debug\net8.0\variableScope.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\bin\Debug\net8.0\variableScope.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\bin\Debug\net8.0\variableScope.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\bin\Debug\net8.0\variableScope.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\refint\variableScope.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\variableScope.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\variableScope\obj\Debug\net8.0\ref\variableScope.dll

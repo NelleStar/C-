@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\bin\Debug\net8.0\booleanEval.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\bin\Debug\net8.0\booleanEval.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\bin\Debug\net8.0\booleanEval.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\bin\Debug\net8.0\booleanEval.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\bin\Debug\net8.0\booleanEval.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\refint\booleanEval.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\booleanEval.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\booleanEval\obj\Debug\net8.0\ref\booleanEval.dll

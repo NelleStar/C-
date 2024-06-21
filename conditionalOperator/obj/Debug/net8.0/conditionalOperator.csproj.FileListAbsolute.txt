@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\bin\Debug\net8.0\conditionalOperator.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\bin\Debug\net8.0\conditionalOperator.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\bin\Debug\net8.0\conditionalOperator.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\bin\Debug\net8.0\conditionalOperator.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\bin\Debug\net8.0\conditionalOperator.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\refint\conditionalOperator.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\conditionalOperator.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\conditionalOperator\obj\Debug\net8.0\ref\conditionalOperator.dll
