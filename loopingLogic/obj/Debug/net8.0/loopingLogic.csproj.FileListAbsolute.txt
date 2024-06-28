@@ -1,0 +1,15 @@
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\bin\Debug\net8.0\loopingLogic.exe
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\bin\Debug\net8.0\loopingLogic.deps.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\bin\Debug\net8.0\loopingLogic.runtimeconfig.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\bin\Debug\net8.0\loopingLogic.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\bin\Debug\net8.0\loopingLogic.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.AssemblyInfoInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.AssemblyInfo.cs
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.csproj.CoreCompileInputs.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.sourcelink.json
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\refint\loopingLogic.dll
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.pdb
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\loopingLogic.genruntimeconfig.cache
+C:\Users\janel\OneDrive\Desktop\coding stuffs\learn.microsoft\C#\loopingLogic\obj\Debug\net8.0\ref\loopingLogic.dll
